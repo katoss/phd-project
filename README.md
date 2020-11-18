@@ -6,9 +6,8 @@ In this repository you'll find outputs of my PhD project. This is a continuous w
 **Lab:** [@Peer-Produced Research Lab](https://github.com/PeerProducedResearch), CRI Paris  
 **Supervisors:** Bastian Greshake Tzovaras and Ariel Lindner  
 
-## License
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
-International License][cc-by-sa].
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
