@@ -13,3 +13,14 @@ This work is licensed under a
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
+## High-Level Questions
+Some introductory questions to understand the motivations for my approach
+### Why commons-based peer-production in citizen science?
+*tbd*
+### Why user-centered design?
+*tbd*
+### Why Open Humans?
+*tbd*
+### What will be my main contribution?
+*tbd*
