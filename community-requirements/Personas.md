@@ -1,4 +1,4 @@
-# Open Humans Personas List
+# Open Humans Personas
 
 <details>
   <summary><b>What are personas and what are they used for?</b></summary>
@@ -37,6 +37,8 @@
    
    More information on how these personas were used will be added here in the process.
 </details>
+
+## Personas List 
 
 **Important:** These personas represent archetypes; real world individuals are likely to represent multiple personas, and which persona they resemble may vary depending on context (e.g. type of self research) and change over time.
 
@@ -112,7 +114,7 @@
 | **Social activities** |                      |
 | **Skills**            | **Meta research:** beginner <br> **Data analysis:** beginner <br> **Coding:** intermediate |
 ___
-### Personas underneath this line not prioritized*
+### Personas underneath this line are not prioritized*
 ___
 
 <details>
@@ -123,7 +125,8 @@ When designing a platform, or another product of any kind, it is important to th
 It is because one shoe does not fit all - and it is hard to build something that meets the needs of everyone.
 This does not mean that we want to exclude these (archetypical) people from using Open Humans, but that we don't focus on them when designing
 the platform. The reasons for this are diverse. For example, it could be that we think that their requirements could be better met by other 
-platforms or apps, or they could be looking for something that was already tried in Open Humans but did not work out so well in the end. 
+platforms or apps, or they could be looking for something that was already tried in Open Humans but did not work. 
+
 We included these personas in the list, because often during designing something it is helpful to visualize what *not* to build and what *not* to 
 focus on instead of only thinking about what to build and to focus on.
 </details>
