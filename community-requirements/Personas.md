@@ -47,7 +47,7 @@
 |   IMAGE               | *“What can I do?”* <br> Taylor is a software engineer that’s interested in playing with technology at large, including playing around with hardware. He loves collecting data, even if he’s not 100% sure what it could be used for. |
 | **Motivation**        | Internally motivated, excited about technology, likes to spend time on it in their freetime |
 | **Challenges**        | Finding a purpose to apply their skills and interests |
-| **Social activities** | Self-research chats, likes to help people with their technology- and data-related questions |
+| **Community** | Self-research chats, likes to help people with their technology- and data-related questions |
 | **Skills**            | **Meta research:** beginner <br> **Data analysis:** intermediate <br> **Coding:** expert |
 
 |         2             | Dannie the Data-Nerd   |
@@ -55,7 +55,7 @@
 |   IMAGE               | *“I’m observing so many interesting patterns in my data. I wonder if other people’s patterns are similar.”* <br> Dannie is a data scientist that’s always interested in learning the latest methods to analyze and visualize data. They enjoy using their own data for this, as it has the side-effect of learning about themselves. Recently she often thought about using her notebooks with other people’s data in order to compare patterns.|
 | **Motivation**        | "The beauty of data" |
 | **Challenges**        | - Scaling up, integrating other people's data in their work <br> - ideas of what to do with it |
-| **Social activities** |  |
+| **Community** |  |
 | **Skills**            | **Meta research:** intermediate <br> **Data analysis:** expert <br> **Coding:** intermediate |
 
 |         3             | Avery the Improver   |
@@ -63,7 +63,7 @@
 |   IMAGE               | *“What can I make better?”* <br> Avery wants to to better and be better to live a better and healthier life. Self-tracking and self-research seem to offer useful insights for this, and Avery is keen to find out more and experiment. |
 | **Motivation**        | Self-improvement, getting the best out of the possibilities self-research has to offer |
 | **Challenges**        | Finding an efficient and effective way to learn the necessary skills |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** beginner <br> **Data analysis:** beginner <br> **Coding:** no experience |
 
 |         4             | Eden the ePatient    |
@@ -71,7 +71,7 @@
 |   IMAGE               | *“How can I back up my hypothesis, using my data and that of others?”* <br> Eden is a diabetes patient and is frustrated by the lack of research in areas of their condition. They would like to address a specific question and back it up by data of many other patients to be able to make a grounded claim in order to advocate for their case and to improve the life of diabetic people.  |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** beginner <br> **Data analysis:** beginner <br> **Coding:** no experience |
 
 |         5             | Riley the Researcher |
@@ -79,7 +79,7 @@
 |   IMAGE               | *“Can I do research on myself?”* <br> Riley is a professional researcher and is familiar with research methodologies -- using controls, alternate hypotheses. Riley is curious about and interested in applying the research methods to understanding their own life. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** expert **Data analysis:** expert **Coding:** intermediate |
 
 |         6             | Cameron the Curious  |
@@ -87,7 +87,7 @@
 |   IMAGE               | *“What can I learn?”* <br> Cameron is curious about themselves and wonders how to learn more via tracking or self research - and enjoys coming up with interesting new questions to ask and answer. |
 | **Motivation**        | “The joy of figuring out a new question to ask” |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** beginner <br> **Data analysis:** beginner <br> **Coding:** beginner |
 
 |         7             | Dylan the Discovering Patient |
@@ -95,7 +95,7 @@
 |   IMAGE               | *“This is way more interesting than I thought! Maybe, if I take it step by step, it is not that hard?”* <br> Dylan was recommended by their doctor to try self-monitoring in order to learn which factors influence the symptoms of their chronic migraine. This was their first point of contact with tracking and data, let alone coding! With growing interest, Dylan is starting to discover the possibilities of self-research by reading about and trying out some trackers and apps. |
 | **Motivation**        |                      |
 | **Challenges**        | - Where to start? <br> - No tech or research background |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** no experience <br> **Data analysis:**  no experience <br> **Coding:** no experience |
 
 |         8             | Sawyer the Student   |
@@ -103,7 +103,7 @@
 |   IMAGE               | *“And if I applied the protocols I learned about in class and in the lab to learn about myself?”* <br> Sawyer is in their first Master year in biology and has heard about self-tracking. They are curious to what extent some of the empirical knowledge they are learning to apply to other areas could also be applied to themselves, more personally. Sawyer is also considering buying a Fitbit. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** intermediate <br> **Data analysis:** intermediate <br> **Coding:** beginner |
 
 |         9             | Harper the Hobbyist  |
@@ -111,7 +111,7 @@
 |   IMAGE               | *“Now I’ve finally got the time to explore these things, and I’m sure my health will benefit from it!”* <br> Harper worked for many years as an engineer, and has always been very active in tech-related hobbies and fixing things at home. Now that they are retired and also worried about some possible hereditary health conditions, Harper wants to use part of their time to discover new things empirically. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** beginner <br> **Data analysis:** beginner <br> **Coding:** intermediate |
 ___
 ### Personas underneath this line are not prioritized*
@@ -136,7 +136,7 @@ focus on instead of only thinking about what to build and to focus on.
 |   IMAGE               | *“I really have to force myself to track all these things.”* <br> Ryan was advised by their doctor to try self-tracking to monitor their blood pressure, nutrition and physical activity. They find it really tedious and laborious to implement a tracking routine in everyday life and want to invest as little time and effort as possible. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** no experience <br> **Data analysis:** no experience <br> **Coding:** no experience |
 
 |         11            | Sam the Scientist    |
@@ -144,7 +144,7 @@ focus on instead of only thinking about what to build and to focus on.
 |   IMAGE               | *“Is it feasible to use self-tracking data collected by individuals for our large-scale studies?”* <br> Sam is a medical researcher in the field of autoimmune diseases, interested in how different lifestyle variables influence disease progressions. Long-term data is of particular interest in their case, so they have considered incorporating self-tracking data in their research. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** expert <br> **Data analysis:** expert <br> **Coding:** beginner |
 
 |         12            | Drew the Data Donor  |
@@ -152,7 +152,7 @@ focus on instead of only thinking about what to build and to focus on.
 |   IMAGE               | *“I'm sure all my data could be useful for science.”* <br> Drew has been tracking their heart rate, sleep and exercise over several years and has accumulated quite some data. While not particularly interested in analysing the data for themselves beyond the conclusions they learned to draw intuitively, Drew would like to donate their data to research. |
 | **Motivation**        | Donating to science, doing something useful as a side effect of the self-tracking they have incorporated in everyday-life |
 | **Challenges**        | Finding research projects that are interested in their data |
-| **Social activities** |                      |
+| **Community** |                      |
 | **Skills**            | **Meta research:** no experience <br> **Data analysis:** no experience <br> **Coding:** no experience |
 
 |         13            | Charlie the Casual Tracker |
@@ -160,5 +160,5 @@ focus on instead of only thinking about what to build and to focus on.
 |   IMAGE               | *“It is so easy to track all these things with my Apple watch! Amazing what these gadgets are capable of these days.”* <br> Charlie gradually got more into self-tracking with the advancement of the mobile devices they use in daily life. They are satisfied with the default settings and casually having a look at their step count or pulse. Charlie also finds the prompts reminding them to move more in daily life quite useful and is satisfied with their new device. |
 | **Motivation**        | Self-tracks because it is convenient and the devices “do it automatically”, so there is little work involved |
 | **Challenges**        |                      |
-| **Social activities** | Casually speaks with their friends about their self-tracking habits |
+| **Community** | Casually speaks with their friends about their self-tracking habits |
 | **Skills**            | **Meta research:** no experience <br> **Data analysis:** no experience <br> **Coding:** no experience |
