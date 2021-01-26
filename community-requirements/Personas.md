@@ -2,25 +2,40 @@
 
 <details>
   <summary><b>What are personas and what are they used for?</b></summary>
+  Personas are archetypical fictional characters representing different user types that might use the platform. While fictional, they should not be "made up", but based on user research, so they can serve as a realistic representation of possible user groups and help to understand their needs, background, behaviour and goals. 
   
+  Personas are used as a method in the ideation process to empathise with users, prioritize them and get an insight into what kind of platform could be useful to help users reach their goals. For the design team, they can serve as mnemonic devices to make user needs more tangible and memorable. 
+  
+  For example, one could try to sketch "the perfect front page" for each persona, according to their needs and see how they overlap or diverge, or think about the goal "I want to find an efficient way to make sense of my sleep data" and how each persona could reach this goal.
+  
+  Important: Personas represent archetypes; real world individuals are likely to represent multiple personas, and which persona they resemble may vary depending on context (e.g. type of self research) and change over time.
   tbd
 </details>
 <details>
   <summary><b>How did you make these personas?</b></summary>
   
-  tbd
+  These personas were developed iteratively in an collaborative effort by the members of the [Peer-Produced Research Lab](https://peer-produced.science/), mainly in several group discussions and tasks. Two members of the team are the founders and long-term members of the Open Humans community, and two other members led 20+ interviews with Open Humans community members and other people interested in self-research on motivations, peer support and learning. This experience served as the user-research basis to develop a representative set of personas for the (current and future) target user groups of Open Humans.
+  If you are member of the community and you don't feel represented by one or a mix of several of these personas and think we should add or adapt anything, you are very welcome to give us feedback.
+</details>
+
+<details>
+  <summary><b>Are these personas finished?</b></summary>
+  
+  These personas are thought to be a method that serve a purpose (helping to redesign Open Humans in a user-centered way) and are thus thought to be living documents that can change with the tasks they are used for and/or with the community feedback we receive. There is no one right way to make personas, what dimensions to include etc., they are rather a method to be evaluated and improved in the design process.
 </details>
 
 <details>
   <summary><b>Does the order of the personas have a meaning?</b></summary>
   
-  tbd
+  Yes and no. The personas in this list are split into two groups, those prioritized as target groups (above the line) and those not prioritized (beneath the line). Within these groups, we tried to roughly sort the personas according to priority, but came to the (preliminary) conclusion that a functioning peer-production environment might need all of these user types to work. We will try to find out during the process, if a further prioritization is possible and/or necessary.
 </details>
 
 <details>
   <summary><b>What do/did you use these personas for?</b></summary>
-  
-  tbd
+   
+   So far, the persona creation (and thus, thinking about important user groups and their needs) was the first step in a user-centered design process. We will try to include them in the next steps of user research, for example together with te ["Jobs to be done"](https://www.designmethodsfinder.com/methods/jobs-to-be-done) method.
+   
+   More information on how these personas were used will be added here in the process.
 </details>
 
 **Important:** These personas represent archetypes; real world individuals are likely to represent multiple personas, and which persona they resemble may vary depending on context (e.g. type of self research) and change over time.
