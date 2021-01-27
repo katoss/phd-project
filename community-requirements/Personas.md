@@ -44,7 +44,7 @@
 
 |         1             | Taylor the Techie   |
 |-----------------------|---------------------|
-|   IMAGE               | *“What can I do?”* <br> Taylor is a software engineer that’s interested in playing with technology at large, including playing around with hardware. He loves collecting data, even if he’s not 100% sure what it could be used for. |
+| <img src="../images/persona-taylor-techie.PNG" width="200" /> | *“What can I do?”* <br> Taylor is a software engineer that’s interested in playing with technology at large, including playing around with hardware. He loves collecting data, even if he’s not 100% sure what it could be used for. |
 | **Motivation**        | Internally motivated, excited about technology, likes to spend time on it in their freetime |
 | **Challenges**        | Finding a purpose to apply their skills and interests |
 | **Community** | Self-research chats, likes to help people with their technology- and data-related questions |
@@ -76,7 +76,7 @@
 
 |         5             | Riley the Researcher |
 |-----------------------|----------------------|
-|   IMAGE               | *“Can I do research on myself?”* <br> Riley is a professional researcher and is familiar with research methodologies -- using controls, alternate hypotheses. Riley is curious about and interested in applying the research methods to understanding their own life. |
+| <img src="../images/persona-riley-researcher.PNG" width="200" /> | *“Can I do research on myself?”* <br> Riley is a professional researcher and is familiar with research methodologies -- using controls, alternate hypotheses. Riley is curious about and interested in applying the research methods to understanding their own life. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
