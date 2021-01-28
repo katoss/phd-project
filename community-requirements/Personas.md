@@ -52,7 +52,7 @@
 
 |         2             | Dannie the Data-Nerd   |
 |-----------------------|---------------------|
-|   IMAGE               | *“I’m observing so many interesting patterns in my data. I wonder if other people’s patterns are similar.”* <br> Dannie is a data scientist that’s always interested in learning the latest methods to analyze and visualize data. They enjoy using their own data for this, as it has the side-effect of learning about themselves. Recently she often thought about using her notebooks with other people’s data in order to compare patterns.|
+| <img src="../images/persona-dannie-datanerd.PNG" width="300" /> | *“I’m observing so many interesting patterns in my data. I wonder if other people’s patterns are similar.”* <br> Dannie is a data scientist that’s always interested in learning the latest methods to analyze and visualize data. They enjoy using their own data for this, as it has the side-effect of learning about themselves. Recently Dannie often thought about using their notebooks with other people’s data in order to compare patterns.|
 | **Motivation**        | "The beauty of data" |
 | **Challenges**        | - Scaling up, integrating other people's data in their work <br> - ideas of what to do with it |
 | **Community** |  |
@@ -60,7 +60,7 @@
 
 |         3             | Avery the Improver   |
 |-----------------------|----------------------|
-|   IMAGE               | *“What can I make better?”* <br> Avery wants to to better and be better to live a better and healthier life. Self-tracking and self-research seem to offer useful insights for this, and Avery is keen to find out more and experiment. |
+| <img src="../images/persona-avery-improver.PNG" width="300" /> | *“What can I make better?”* <br> Avery wants to to better and be better to live a better and healthier life. Self-tracking and self-research seem to offer useful insights for this, and Avery is keen to find out more and experiment. |
 | **Motivation**        | Self-improvement, getting the best out of the possibilities self-research has to offer |
 | **Challenges**        | Finding an efficient and effective way to learn the necessary skills |
 | **Community** |                      |
@@ -100,7 +100,7 @@
 
 |         8             | Sawyer the Student   |
 |-----------------------|----------------------|
-|   IMAGE               | *“And if I applied the protocols I learned about in class and in the lab to learn about myself?”* <br> Sawyer is in their first Master year in biology and has heard about self-tracking. They are curious to what extent some of the empirical knowledge they are learning to apply to other areas could also be applied to themselves, more personally. Sawyer is also considering buying a Fitbit. |
+| <img src="../images/persona-sawyer-student.PNG" width="300" /> | *“And if I applied the protocols I learned about in class and in the lab to learn about myself?”* <br> Sawyer is in their first Master year in biology and has heard about self-tracking. They are curious to what extent some of the empirical knowledge they are learning to apply to other areas could also be applied to themselves, more personally. Sawyer is also considering buying a Fitbit. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
