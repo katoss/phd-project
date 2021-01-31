@@ -68,7 +68,7 @@
 
 |         4             | Eden the ePatient    |
 |-----------------------|----------------------|
-|   IMAGE               | *“How can I back up my hypothesis, using my data and that of others?”* <br> Eden is a diabetes patient and is frustrated by the lack of research in areas of their condition. They would like to address a specific question and back it up by data of many other patients to be able to make a grounded claim in order to advocate for their case and to improve the life of diabetic people.  |
+| <img src="../images/persona-eden-epatient.PNG" width="300" /> | *“How can I back up my hypothesis, using my data and that of others?”* <br> Eden is a diabetes patient and is frustrated by the lack of research in areas of their condition. They would like to address a specific question and back it up by data of many other patients to be able to make a grounded claim in order to advocate for their case and to improve the life of diabetic people.  |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
@@ -84,7 +84,7 @@
 
 |         6             | Cameron the Curious  |
 |-----------------------|----------------------|
-|   IMAGE               | *“What can I learn?”* <br> Cameron is curious about themselves and wonders how to learn more via tracking or self research - and enjoys coming up with interesting new questions to ask and answer. |
+| <img src="../images/persona-cameron-curious.PNG" width="300" /> | *“What can I learn?”* <br> Cameron is curious about themselves and wonders how to learn more via tracking or self research - and enjoys coming up with interesting new questions to ask and answer. |
 | **Motivation**        | “The joy of figuring out a new question to ask” |
 | **Challenges**        |                      |
 | **Community** |                      |
@@ -92,7 +92,7 @@
 
 |         7             | Dylan the Discovering Patient |
 |-----------------------|----------------------|
-|   IMAGE               | *“This is way more interesting than I thought! Maybe, if I take it step by step, it is not that hard?”* <br> Dylan was recommended by their doctor to try self-monitoring in order to learn which factors influence the symptoms of their chronic migraine. This was their first point of contact with tracking and data, let alone coding! With growing interest, Dylan is starting to discover the possibilities of self-research by reading about and trying out some trackers and apps. |
+| <img src="../images/persona-dylan-discoveringpatient.PNG" width="300" /> | *“This is way more interesting than I thought! Maybe, if I take it step by step, it is not that hard?”* <br> Dylan was recommended by their doctor to try self-monitoring in order to learn which factors influence the symptoms of their chronic migraine. This was their first point of contact with tracking and data, let alone coding! With growing interest, Dylan is starting to discover the possibilities of self-research by reading about and trying out some trackers and apps. |
 | **Motivation**        |                      |
 | **Challenges**        | - Where to start? <br> - No tech or research background |
 | **Community** |                      |
@@ -108,7 +108,7 @@
 
 |         9             | Harper the Hobbyist  |
 |-----------------------|----------------------|
-|   IMAGE               | *“Now I’ve finally got the time to explore these things, and I’m sure my health will benefit from it!”* <br> Harper worked for many years as an engineer, and has always been very active in tech-related hobbies and fixing things at home. Now that they are retired and also worried about some possible hereditary health conditions, Harper wants to use part of their time to discover new things empirically. |
+| <img src="../images/persona-harper-hobbyist.PNG" width="300" /> | *“Now I’ve finally got the time to explore these things, and I’m sure my health will benefit from it!”* <br> Harper worked for many years as an engineer, and has always been very active in tech-related hobbies and fixing things at home. Now that they are retired and also worried about some possible hereditary health conditions, Harper wants to use part of their time to discover new things empirically. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
@@ -133,7 +133,7 @@ focus on instead of only thinking about what to build and to focus on.
 
 |         10            | Ryan the Reluctant Patient |
 |-----------------------|----------------------|
-|   IMAGE               | *“I really have to force myself to track all these things.”* <br> Ryan was advised by their doctor to try self-tracking to monitor their blood pressure, nutrition and physical activity. They find it really tedious and laborious to implement a tracking routine in everyday life and want to invest as little time and effort as possible. |
+| <img src="../images/persona-ryan-reluctantpatient.PNG" width="300" /> | *“I really have to force myself to track all these things.”* <br> Ryan was advised by their doctor to try self-tracking to monitor their blood pressure, nutrition and physical activity. They find it really tedious and laborious to implement a tracking routine in everyday life and want to invest as little time and effort as possible. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
@@ -141,7 +141,7 @@ focus on instead of only thinking about what to build and to focus on.
 
 |         11            | Sam the Scientist    |
 |-----------------------|----------------------|
-|   IMAGE               | *“Is it feasible to use self-tracking data collected by individuals for our large-scale studies?”* <br> Sam is a medical researcher in the field of autoimmune diseases, interested in how different lifestyle variables influence disease progressions. Long-term data is of particular interest in their case, so they have considered incorporating self-tracking data in their research. |
+| <img src="../images/persona-sam-scientist.PNG" width="300" /> | *“Is it feasible to use self-tracking data collected by individuals for our large-scale studies?”* <br> Sam is a medical researcher in the field of autoimmune diseases, interested in how different lifestyle variables influence disease progressions. Long-term data is of particular interest in their case, so they have considered incorporating self-tracking data in their research. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
@@ -149,7 +149,7 @@ focus on instead of only thinking about what to build and to focus on.
 
 |         12            | Drew the Data Donor  |
 |-----------------------|----------------------|
-|   IMAGE               | *“I'm sure all my data could be useful for science.”* <br> Drew has been tracking their heart rate, sleep and exercise over several years and has accumulated quite some data. While not particularly interested in analysing the data for themselves beyond the conclusions they learned to draw intuitively, Drew would like to donate their data to research. |
+| <img src="../images/persona-drew-datadonor.PNG" width="300" /> | *“I'm sure all my data could be useful for science.”* <br> Drew has been tracking their heart rate, sleep and exercise over several years and has accumulated quite some data. While not particularly interested in analysing the data for themselves beyond the conclusions they learned to draw intuitively, Drew would like to donate their data to research. |
 | **Motivation**        | Donating to science, doing something useful as a side effect of the self-tracking they have incorporated in everyday-life |
 | **Challenges**        | Finding research projects that are interested in their data |
 | **Community** |                      |
@@ -157,7 +157,7 @@ focus on instead of only thinking about what to build and to focus on.
 
 |         13            | Charlie the Casual Tracker |
 |-----------------------|----------------------|
-|   IMAGE               | *“It is so easy to track all these things with my Apple watch! Amazing what these gadgets are capable of these days.”* <br> Charlie gradually got more into self-tracking with the advancement of the mobile devices they use in daily life. They are satisfied with the default settings and casually having a look at their step count or pulse. Charlie also finds the prompts reminding them to move more in daily life quite useful and is satisfied with their new device. |
+| <img src="../images/persona-charlie-casual.PNG" width="300" /> | *“It is so easy to track all these things with my Apple watch! Amazing what these gadgets are capable of these days.”* <br> Charlie gradually got more into self-tracking with the advancement of the mobile devices they use in daily life. They are satisfied with the default settings and casually having a look at their step count or pulse. Charlie also finds the prompts reminding them to move more in daily life quite useful and is satisfied with their new device. |
 | **Motivation**        | Self-tracks because it is convenient and the devices “do it automatically”, so there is little work involved |
 | **Challenges**        |                      |
 | **Community** | Casually speaks with their friends about their self-tracking habits |
