@@ -133,7 +133,7 @@ focus on instead of only thinking about what to build and to focus on.
 
 |         10            | Ryan the Reluctant Patient |
 |-----------------------|----------------------|
-| <img src="../images/persona-ryan-reluctantpatient.PNG" width="300" /> | *“I really have to force myself to track all these things.”* <br> Ryan was advised by their doctor to try self-tracking to monitor their blood pressure, nutrition and physical activity. They find it really tedious and laborious to implement a tracking routine in everyday life and want to invest as little time and effort as possible. |
+| <img src="../images/persona-ryan-reluctant.PNG" width="300" /> | *“I really have to force myself to track all these things.”* <br> Ryan was advised by their doctor to try self-tracking to monitor their blood pressure, nutrition and physical activity. They find it really tedious and laborious to implement a tracking routine in everyday life and want to invest as little time and effort as possible. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
