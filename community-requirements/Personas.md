@@ -141,7 +141,7 @@ focus on instead of only thinking about what to build and to focus on.
 
 |         11            | Sam the Scientist    |
 |-----------------------|----------------------|
-| <img src="../images/persona-sam-scientist.PNG" width="300" /> | *“Is it feasible to use self-tracking data collected by individuals for our large-scale studies?”* <br> Sam is a medical researcher in the field of autoimmune diseases, interested in how different lifestyle variables influence disease progressions. Long-term data is of particular interest in their case, so they have considered incorporating self-tracking data in their research. |
+| <img src="../images/persona-sam-scientist.PNG" width="300" /> | *“Is it feasible to use self-tracking data collected by individuals for our large-scale studies?”* <br> Sam is a medical researcher in the field of autoimmune diseases. They have considered using self-tracking data for some studies. They are not really interested in getting involved with the community: For their purposes, it would be best if people followed their research protocol and send them the recorded data afterwards. |
 | **Motivation**        |                      |
 | **Challenges**        |                      |
 | **Community** |                      |
