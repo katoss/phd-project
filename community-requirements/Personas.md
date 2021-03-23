@@ -44,7 +44,7 @@
 
 |         1             | Taylor the Techie   |
 |-----------------------|---------------------|
-| <img src="../images/persona-taylor-techie.PNG" width="300" /> | *“What can I do?”* <br> Taylor is a software engineer that’s interested in playing with technology at large, including playing around with hardware. He loves collecting data, even if he’s not 100% sure what it could be used for. |
+| <img src="../images/persona-taylor-techie.PNG" width="300" /> | *“What can I do?”* <br> Taylor is a software engineer who is interested in playing with technology at large, including playing around with hardware. Taylor loves collecting data, even if they are not 100% sure what it could be used for. |
 | **Motivation**        | Internally motivated, excited about technology, likes to spend time on it in their freetime |
 | **Challenges**        | Finding a purpose to apply their skills and interests |
 | **Community** | Self-research chats, likes to help people with their technology- and data-related questions |
