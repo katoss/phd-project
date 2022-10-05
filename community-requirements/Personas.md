@@ -60,7 +60,7 @@
 
 |         3             | Avery the Improver   |
 |-----------------------|----------------------|
-| <img src="../images/persona-avery-improver.PNG" width="300" /> | *“What can I make better?”* <br> Avery wants to to better and be better to live a better and healthier life. Self-tracking and self-research seem to offer useful insights for this, and Avery is keen to find out more and experiment. |
+| <img src="../images/persona-avery-improver.PNG" width="300" /> | *“What can I do better?”* <br> Avery wants to to better and be better to live a better and healthier life. Self-tracking and self-research seem to offer useful insights for this, and Avery is keen to find out more and experiment. |
 | **Motivation**        | Self-improvement, getting the best out of the possibilities self-research has to offer |
 | **Challenges**        | Finding an efficient and effective way to learn the necessary skills |
 | **Community** |                      |
